@@ -30,7 +30,7 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@googleapis/androidpublisher": "^26.0.0"
+    "@googleapis/androidpublisher": "^37.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.1",
